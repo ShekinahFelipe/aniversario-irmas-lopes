@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', sans-serif;
+    background: linear-gradient(to bottom, #fbe7f0, #e0ecff);
+    color: #2b2b2b;
+    text-align: center;
+}
+
+.container {
+    background-color: rgba(255, 255, 255, 0.85);
+    margin: 5% auto;
+    padding: 2rem;
+    max-width: 600px;
+    border-radius: 20px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+}
+
+h1 {
+    color: #522b5b; /* Roxo escuro */
+    font-size: 2em;
+    margin-bottom: 0.5em;
+}
+
+.verses blockquote {
+    font-style: italic;
+    font-size: 1.1em;
+    margin: 1em 0;
+    color: #344b8e; /* Azul escuro */
+}
+
+.verses span {
+    display: block;
+    margin-top: 0.5em;
+    font-weight: bold;
+    color: #7a3e9d; /* Roxo */
+}
+
+footer {
+    margin-top: 2rem;
+    color: #555;
+}
